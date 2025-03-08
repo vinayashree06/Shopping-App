@@ -1,0 +1,20 @@
+# Android/Java specific files
+*.iml
+.gradle/
+.idea/
+/local.properties
+/.cxx/
+/build/
+/app/build/
+/captures/
+/output.json
+
+# Firebase and Credentials
+google-services.json
+app/google-services.json
+app/src/debug/google-services.json
+app/src/release/google-services.json
+
+# Other Files
+*.log
+.DS_Store
